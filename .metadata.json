@@ -1,0 +1,10 @@
+[
+  {
+    "package": "codetools",
+    "oncran": true
+  },
+  {
+    "package": "misc3d",
+    "oncran": true
+  }
+]
